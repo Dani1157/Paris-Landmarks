@@ -3,7 +3,6 @@
 :root {
     --primary-color: #B3C8CF;
     --secondary-color: #BED7DC;
-    --tertiary-color: #F1EEDC;
     --quaternary-color: #E5DDC5;
     
 }
@@ -15,7 +14,7 @@ html, body {
 }
 
 body {
- background-color: var(--primary-color);
+  background-image: linear-gradient(to bottom, rgba(179, 200, 207, 1), rgba(179, 200, 207, 0.5)); 
   margin-bottom: 60px;
 }
 
@@ -81,7 +80,7 @@ h1 {
     border: #FFA07A   2px solid;
     padding: 40PX;
     border-radius: 20px;
-    background-color: var(--primary-color);
+   
     
 }
 .intro {
@@ -91,7 +90,7 @@ h1 {
 
 
 footer {
-    background-color:#B3C8CF;
+    
     margin-top: 100px;
   }
 
@@ -140,7 +139,7 @@ footer {
 
 
   .footerbottom{
-    background-color:#B3C8CF;
+
     padding: 20px;
     text-align: center;
   }
