@@ -91,4 +91,9 @@ footer {
     margin-bottom: 200px;
   }
 
-  
+  .social {
+    display: flex;
+    justify-content: center;
+    margin-bottom:10px;
+    margin-top:70px;
+  }
