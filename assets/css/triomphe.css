@@ -5,3 +5,7 @@
     --quaternary-color: #E5DDC5;
     --quinary-color: #cfbcb3;
 }
+
+body {
+    background-color: var(--primary-color);
+}
