@@ -47,3 +47,14 @@ body {
   display: flex;
   justify-content: center; 
 }
+
+.burger-menu {
+    display: none;
+  }
+  
+  .line {
+    width: 35px;
+    height: 3px;
+    background-color: #130000;
+    margin: 5px;
+  }
