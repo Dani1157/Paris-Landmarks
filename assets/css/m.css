@@ -74,3 +74,9 @@ body {
     margin-top: 5px;
     text-transform: uppercase;
 }
+
+.images img {
+    width: 150px;
+    height: 200px;
+   object-fit: cover;
+}
