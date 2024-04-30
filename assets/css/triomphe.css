@@ -9,3 +9,18 @@
 body {
     background-color: var(--primary-color);
 }
+
+/* Style for the image containers */
+.image-container {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    border-radius: 10px;
+ 
+}
+
+
+img{
+    width: 500px;
+    
+}
