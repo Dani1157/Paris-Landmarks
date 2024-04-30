@@ -70,3 +70,8 @@ body {
     height: auto;
     max-width: 300px;
 }
+
+.content {
+    border: 2px solid #FFA07A;
+    padding: 20px;
+}
