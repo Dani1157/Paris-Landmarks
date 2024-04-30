@@ -97,3 +97,35 @@ footer {
     margin-bottom:10px;
     margin-top:70px;
   }
+
+  .social a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: aliceblue;
+    margin: 10px;
+    border-radius: 50%;
+ }
+ 
+ .social a i{
+    font-size: 2em;
+    color: #000;
+    opacity: 0.9;
+  }
+
+  /* Hover effects on social media icons */
+  .socialicons a:hover{
+    background-color:#B3C8CF;
+    transition: 0.100s;
+  }
+
+  .social a:hover i{
+    color:#B3C8CF;
+    transition: 0.5s;
+
+  }
+
+.footerbottom{
+    background-color:#B3C8CF;
+    padding: 20px;
+    text-align: center;
+  }
