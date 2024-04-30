@@ -58,3 +58,9 @@ body {
     background-color: #130000;
     margin: 5px;
   }
+
+  .images {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
