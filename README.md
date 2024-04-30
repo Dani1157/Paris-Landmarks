@@ -40,12 +40,15 @@ This project aims to showcase information about iconic landmarks in Paris, inclu
 - The website includes a fully responsive navigation bar with links to different pages like the Museum, Eiffel Tower, Arc de Triomphe, and Contact Us. It provides easy access to navigate through the website on various devices. 
 
 
+![home](assets/images/Screenshot%202024-04-28%20155316.webp)
 
 ## The landing page
 
 - The landing includes informative section about Paris, highlighting its significance as the capital of France.
 - Details about Paris's culture, history, attractions like the Eiffel Tower, Louvre Museum, and more are provided.
 
+
+![home](assets/images/tower.png )
 
 
 ## Footer Section
@@ -55,7 +58,7 @@ Users can easily access the website's social media platforms by clicking on the 
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
 
 
-
+![footer.png](assets/images/footer.png)
 
 
 ### Eiffel Tower Page (eiffelTower.html)
@@ -67,7 +70,7 @@ Users can easily access the website's social media platforms by clicking on the 
 
 
 
-
+![nav](assets/images/screenshot2024-04-27170956.png)
 
 ## The landing page 
 
@@ -76,7 +79,8 @@ Users can easily access the website's social media platforms by clicking on the 
 - Images Section: Features memorable pictures from the construction of the Eiffel Tower with corresponding captions linking to external sources for further exploration.
 
 
-
+![eiffel](assets/images/Screenshot1png.png)
+![frame](assets/images/Screenshot2024png.png)
 ## Footer Section
 - The footer section of the website contains social media icons linking to Instagram, Twitter, YouTube, and GitHub accounts for enhanced engagement and connectivity.
 Users can easily access the website's social media platforms by clicking on the respective icons.
@@ -84,6 +88,7 @@ Users can easily access the website's social media platforms by clicking on the 
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
 
 
+![footer.png](assets/images/footer.png)
 
 
 ### Arc de Triomphe Page (triomphe.html)
@@ -95,10 +100,17 @@ Users can easily access the website's social media platforms by clicking on the 
 
 
 
+![triomphe](assets/images/triomphe.png)
 ## The landing page
 
  -The landing includes the Arc de Triomphe in Paris and provides a captivating introduction to the monumental landmark. It features a striking image of the Arc de Triomphe, accompanied by essential information about its historical significance and construction. The page highlights key details such as the monument's tribute to fallen heroes of France, its architectural inspiration from ancient Roman design, and notable events that have taken place at the site.
    
+
+
+
+![land](assets/images/land.png)
+![m](assets/images/m.png)
+
 
 ## Footer Section
 - The footer section of the website contains social media icons linking to Instagram, Twitter, YouTube, and GitHub accounts for enhanced engagement and connectivity.
@@ -107,6 +119,7 @@ Users can easily access the website's social media platforms by clicking on the 
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
 
 
+![footer.png](assets/images/footer.png)
 
 
 
@@ -118,12 +131,12 @@ Users can easily access the website's social media platforms by clicking on the 
 
 - The navigation bar contains links to the Home page, Eiffel Tower page, The Arc de Triomphe and Contact Us page. It includes a burger menu icon for mobile responsiveness.
 
-
+![nav](assets/images/Louvre.png)
 
 
 
 - The landing page for the Louvre Museum includes information about the iconic museum in Paris, offering a captivating introduction to its vast collection and historical significance. It features a stunning image of the Louvre Museum and provides essential details about its history, architecture, and famous artworks housed within. The page highlights key aspects such as the museum's renowned art collections, its evolution from a royal palace to a cultural institution, and notable events or exhibitions that have taken place at the museum.
-
+![land](assets/images/screenshot20240427203044.png)
 
 
 
@@ -133,6 +146,25 @@ Users can easily access the website's social media platforms by clicking on the 
 Users can easily access the website's social media platforms by clicking on the respective icons.
 - The footer also includes copyright information, denoting the year of creation (©2024) and the designer's name (Dani) for attributing credit.
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
+
+
+![footer.png](assets/images/footer.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
