@@ -3,6 +3,10 @@
 ## Overview
 This project aims to showcase information about iconic landmarks in Paris, including the Eiffel Tower, the Grand Louvre, and the Arc de Triomphe. The website is designed using HTML, CSS, and JavaScript, following the principles of user experience design, accessibility, and responsiveness. The website provides an interactive and informative experience for users interested in Parisian landmarks.
 
+![Website](assets/images/website.png)
+
+
+
 ## Technologies Used
 - **HTML:** Used for creating the structure and content of the website.
 - **CSS:** Used for styling and design elements of the website.
@@ -40,7 +44,7 @@ This project aims to showcase information about iconic landmarks in Paris, inclu
 - The website includes a fully responsive navigation bar with links to different pages like the Museum, Eiffel Tower, Arc de Triomphe, and Contact Us. It provides easy access to navigate through the website on various devices. 
 
 
-![home](assets/images/Screenshot%202024-04-28%20155316.webp)
+![home](assets/images/nav.webp)
 
 ## The landing page
 
@@ -79,8 +83,8 @@ Users can easily access the website's social media platforms by clicking on the 
 - Images Section: Features memorable pictures from the construction of the Eiffel Tower with corresponding captions linking to external sources for further exploration.
 
 
-![eiffel](assets/images/Screenshot1png.png)
-![frame](assets/images/Screenshot2024png.png)
+![eiffel](assets/images/screenshot1png.png)
+![frame](assets/images/screenshot2024.png)
 ## Footer Section
 - The footer section of the website contains social media icons linking to Instagram, Twitter, YouTube, and GitHub accounts for enhanced engagement and connectivity.
 Users can easily access the website's social media platforms by clicking on the respective icons.
