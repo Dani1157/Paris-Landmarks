@@ -1,5 +1,32 @@
 # Parisian Landmarks Website
 
+## Table of Contents
+
+- [Technologies Used](#Technologies-Used)
+- [Design Principles](#Design-Principles)
+- [Development and Testing](#Development-and-Testing)
+- [Deployment](#Deployment)
+- [Features](#Features)
+  - [Home (Index.html)](#Home-Indexhtml)
+  - [Navigation Bar](#Navigation-Bar)
+  - [The landing page](#The-landing-page)
+  - [Footer Section](#Footer-Section)
+  - etc...
+- [Future Improvements](#Future-Improvements)
+- [Acknowledgement](#Acknowledgement)
+- [Credits](#Credits)
+- [Images Credits](#Images-Credits)
+- [Resources](#Resources)
+- [Content](#Content)
+- [Code snippets](#Code-snippets)
+- [Special Thanks](#Special-Thanks)
+- [Wireframes]( ##Wireframes)                          
+
+
+
+
+
+
 ## Overview
 This project aims to showcase information about iconic landmarks in Paris, including the Eiffel Tower, the Grand Louvre, and the Arc de Triomphe. The website is designed using HTML, CSS, and JavaScript, following the principles of user experience design, accessibility, and responsiveness. The website provides an interactive and informative experience for users interested in Parisian landmarks.
 
@@ -30,6 +57,11 @@ This project aims to showcase information about iconic landmarks in Paris, inclu
 - **Cloud Platform:** The website is deployed on a cloud-based hosting platform for accessibility.
 - **Version Control:** Git and GitHub used for version control up to deployment.
 - **Broken Links:** No broken internal links in the deployed version.
+
+
+<a name="Wireframes">Wireframes</a>
+
+
 
 ## Features
 
@@ -172,6 +204,33 @@ Users can easily access the website's social media platforms by clicking on the 
 - It allows users To get in contact with me And ask questions And get updates about Paris.
 Users can also reach out for recommendations on places to visit, things to do, and where to eat in Paris. I also provide insider tips and insights on the best ways to experience the city like a local. Additionally, users can inquire about upcoming events, festivals, and special promotions happening in Paris. Stay connected with me for all the latest news and information about the City of Light!
 
+<a name="##Wireframes">Wireframes</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -251,3 +310,7 @@ Information about rooftop restaurants in Paris sourced from ABC News - Rooftop R
 ### Special Thanks
 - Thanks to the open-source community for creating resources and tools that made this project possible.
 - Special thanks to [Vernell C](https://github.com/VCGithubCode) for his guidance and support throughout the project.
+
+
+
+
