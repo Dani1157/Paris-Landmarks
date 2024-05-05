@@ -15,16 +15,16 @@ This project aims to showcase information about iconic landmarks in Paris, inclu
 - [Development and Testing](#Development-and-Testing)
 - [Deployment](#Deployment)
 - [Code Validation](#Code-Validation)
-   - [HTML Validation](##HTML-Validation)
-   - [CSS Validation](##CSS-Validation)
-   - [Lighthouse Test](##LighthouseTest)
+   - [HTML Validation](#HTML-Validation)
+   - [CSS Validation](#CSS-Validation)
+   - [Lighthouse Test](#LighthouseTest)
 - [Features](#Features)
   - [Home (Index.html)](#Home-Indexhtml)
   - [Navigation Bar](#Navigation-Bar)
   - [The landing page](#The-landing-page)
   - [Footer Section](#Footer-Section)
-- [ Libraries and Programs](##LibrariesandPrograms) 
-- [Wireframes]( ##Wireframes)       
+- [ Libraries and Programs](#LibrariesandPrograms) 
+- [Wireframes](#Wireframes)       
 - [Future Improvements](#Future-Improvements)
 - [Resources](#Resources)
 - [Content](#Content)
@@ -49,26 +49,6 @@ As a returning user, I want to:
 Check out upcoming events and new information about Paris.
 # Design
 The website is designed with a 4-page layout, making it easy to navigate and providing smooth transitions between pages. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Wireframes
 ![ Wireframes](assets/images/frame1.webp)
 ![ Wireframes](assets/images/frame2.webp)
