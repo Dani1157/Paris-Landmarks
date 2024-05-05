@@ -1,66 +1,33 @@
 # Parisian Landmarks Website
 
+## Overview
+This project aims to showcase information about iconic landmarks in Paris, including the Eiffel Tower, the Grand Louvre, and the Arc de Triomphe. The website is designed using HTML, CSS, and JavaScript, following the principles of user experience design, accessibility, and responsiveness. The website provides an interactive and informative experience for users interested in Parisian landmarks.
+
+![Website](assets/images/website.png)
+
 ## Table of Contents
 
 - [Technologies Used](#Technologies-Used)
 - [Design Principles](#Design-Principles)
 - [Development and Testing](#Development-and-Testing)
 - [Deployment](#Deployment)
+- [Code Validation](#CodeValidation)
+   - [HTML Validation](##HTMLValidation)
+   - [CSS Validation](##CSSValidation)
+   - [Lighthouse Test](##LighthouseTest)
 - [Features](#Features)
   - [Home (Index.html)](#Home-Indexhtml)
   - [Navigation Bar](#Navigation-Bar)
   - [The landing page](#The-landing-page)
   - [Footer Section](#Footer-Section)
-  - etc...
+- [ Libraries and Programs](##LibrariesandPrograms) 
+- [Wireframes]( ##Wireframes)       
 - [Future Improvements](#Future-Improvements)
-- [Acknowledgement](#Acknowledgement)
-- [Credits](#Credits)
-- [Images Credits](#Images-Credits)
 - [Resources](#Resources)
 - [Content](#Content)
 - [Code snippets](#Code-snippets)
 - [Special Thanks](#Special-Thanks)
-- [Wireframes]( ##Wireframes)                          
-
-
-
-
-
-
-## Overview
-This project aims to showcase information about iconic landmarks in Paris, including the Eiffel Tower, the Grand Louvre, and the Arc de Triomphe. The website is designed using HTML, CSS, and JavaScript, following the principles of user experience design, accessibility, and responsiveness. The website provides an interactive and informative experience for users interested in Parisian landmarks.
-
-![Website](assets/images/website.png)
-
-
-
-## Technologies Used
-- **HTML:** Used for creating the structure and content of the website.
-- **CSS:** Used for styling and design elements of the website.
-- **JavaScript:** Used for adding interactive elements and dynamic features to the website.
-
-## Design Principles
-- **Navigation Menu:** Main navigation menu for easy access to different sections.
-- **Accessibility Guidelines:** Ensuring proper contrast and alt text for visually impaired users.
-- **Organisation of Information:** Structured layout using headers for clear information hierarchy.
-- **Design Consistency:** Graphics are consistent in style, color, and layout.
-- **User Interaction:** Providing user-initiated actions such as navigation and multimedia playback.
-
-## Development and Testing
-- **Validation:** Custom HTML and CSS code pass official validators with no issues.
-- **Images:** High-resolution images included to maintain quality. Image credits are properly attributed.
-- **External Links:** All external links open in a separate tab.
-- **Responsiveness:** CSS media queries used for responsive design across different devices.
-- **Semantic Markup:** Structured HTML code follows semantic markup for better SEO.
-
-## Deployment
-- **Cloud Platform:** The website is deployed on a cloud-based hosting platform for accessibility.
-- **Version Control:** Git and GitHub used for version control up to deployment.
-- **Broken Links:** No broken internal links in the deployed version.
-
-
-<a name="Wireframes">Wireframes</a>
-
+- [Acknowledgement](#Acknowledgement)
 
 
 ## Features
@@ -106,7 +73,7 @@ Users can easily access the website's social media platforms by clicking on the 
 
 
 
-![nav](assets/images/screenshot2024-04-27170956.png)
+![nav](assets/images/navpng.png)
 
 ## The landing page 
 
@@ -185,64 +152,53 @@ Users can easily access the website's social media platforms by clicking on the 
 
 
 ![footer.png](assets/images/footer.png)
-
-
-
-
-
-
-
 ## Contact page
-
-
-
 ![footer.png](assets/images/contact.png)
-
-
-
 
 - It allows users To get in contact with me And ask questions And get updates about Paris.
 Users can also reach out for recommendations on places to visit, things to do, and where to eat in Paris. I also provide insider tips and insights on the best ways to experience the city like a local. Additionally, users can inquire about upcoming events, festivals, and special promotions happening in Paris. Stay connected with me for all the latest news and information about the City of Light!
+## Technologies Used
+- **HTML:** Used for creating the structure and content of the website.
+- **CSS:** Used for styling and design elements of the website.
+- **JavaScript:** Used for adding interactive elements and dynamic features to the website.
 
-<a name="##Wireframes">Wireframes</a>
+## Design Principles
+- **Navigation Menu:** Main navigation menu for easy access to different sections.
+- **Accessibility Guidelines:** Ensuring proper contrast and alt text for visually impaired users.
+- **Organisation of Information:** Structured layout using headers for clear information hierarchy.
+- **Design Consistency:** Graphics are consistent in style, color, and layout.
+- **User Interaction:** Providing user-initiated actions such as navigation and multimedia playback.
 
+## Development and Testing
+- **Validation:** Custom HTML and CSS code pass official validators with no issues.
+- **Images:** High-resolution images included to maintain quality. Image credits are properly attributed.
+- **External Links:** All external links open in a separate tab.
+- **Responsiveness:** CSS media queries used for responsive design across different devices.
+- **Semantic Markup:** Structured HTML code follows semantic markup for better SEO.
 
+## Deployment
+- **Cloud Platform:** The website is deployed on a cloud-based hosting platform for accessibility.
+- **Version Control:** Git and GitHub used for version control up to deployment.
+- **Broken Links:** No broken internal links in the deployed version.
+# CodeValidation
+## HTML Validation
+![HTML Validation](assets/images/validation.png)
+## CSS Validation
+![CSS Validation](assets/images/cssvalidation.png)
+## Lighthouse Test
+![lighthouse](assets/images/lighthouse.png)
+Overall website Lighthouse score
+![lighthouse](assets/images/lighthouse1.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Libraries and Programs
+- Used Visual Studio Code as editor.
+- Used Font Awesome for the social media icons.
+- Used GitHub as version control to add, commit and push to repository.
+- Used Google fonts to traget elements font style.
+- Used Microsoft Word for wireframes.
+- Google Chrome.
+- MS Edge (For testing purpose).
+- Firefox (For testing purpose).
 
 ## Future Improvements
 - Implement an interactive map for users to visually explore Parisian landmarks.
@@ -256,8 +212,6 @@ This project is inspired by the beauty and history of Parisian landmarks, with a
 ---
 
 ## Credits
-
-
 **Credits for Web Content:**
 
 **Eiffel Tower Page:**
