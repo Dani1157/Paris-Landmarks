@@ -319,7 +319,7 @@ Website is tested acrossed below browsers to check performance
 - Implement an interactive map for users to visually explore Parisian landmarks.
 - Add a search functionality for users to quickly find specific information.
 - Enhance user interaction with more dynamic features and multimedia elements.
-## Acknowledgement
+## Acknowledgements
 This project is inspired by the beauty and history of Parisian landmarks, with a goal to educate and engage users in an immersive web experience.
 ---
 ## Credits
