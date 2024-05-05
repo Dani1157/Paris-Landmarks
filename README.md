@@ -49,7 +49,7 @@ As a returning user, I want to:
 Check out upcoming events and new information about Paris.
 # Design
 The website is designed with a 4-page layout, making it easy to navigate and providing smooth transitions between pages. 
-## Wireframes
+# Wireframes
 ![ Wireframes](assets/images/frame1.webp)
 ![ Wireframes](assets/images/frame2.webp)
 ![ Wireframes](assets/images/frame3.webp)
@@ -150,13 +150,13 @@ under build and deployment >set Source to 'Deploy from Branch'. Main branch is s
 # CodeValidation
 ## HTML Validation
 ![HTML Validation](assets/images/validation.png)
-## CSS Validation
+# CSS Validation
 ![CSS Validation](assets/images/cssvalidation.png)
-## Lighthouse Test
+# Lighthouse Test
 ![lighthouse](assets/images/lighthouse.png)
 Overall website Lighthouse score
 ![lighthouse](assets/images/lighthouse1.png)
-## Libraries and Programs
+# Libraries and Programs
 - Used Visual Studio Code as editor.
 - Used Font Awesome for the social media icons.
 - Used GitHub as version control to add, commit and push to repository.
