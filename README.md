@@ -1,3 +1,6 @@
+# Mags Foundation
+[live project on Github](https://dani1157.github.io/Paris1/)
+
 # Parisian Landmarks Website
 
 ## Overview
@@ -5,35 +8,43 @@ This project aims to showcase information about iconic landmarks in Paris, inclu
 
 ![Website](assets/images/website.png)
 
-## Table of Contents
+# Table of Contents
+1. [UX](#user-experience-ux) 
+    - [New User](#new-user)
+    - [Old User](#old-user)
+2. [Design](#design) 
+    - [Wireframes](#wireframes)
+3. [Deployment](#deployment) 
+4. [Features](#features)
 
- - [User experience](#User-experience)
-    - [New User](#New-User)
-    - [Old User]([#Old-User)
-    - [Technologies Used](#Technologies-Used)
-- [Design Principles](#Design-Principles)
-- [Development and Testing](#Development-and-Testing)
-- [Deployment](#Deployment)
-- [Code Validation](#Code-Validation)
-   - [HTML Validation](#HTML-Validation)
-   - [CSS Validation](#CSS-Validation)
-   - [Lighthouse Test](#LighthouseTest)
-- [Features](#Features)
-  - [Home (Index.html)](#Home-Indexhtml)
-  - [Navigation Bar](#Navigation-Bar)
-  - [The landing page](#The-landing-page)
-  - [Footer Section](#Footer-Section)
-- [ Libraries and Programs](#LibrariesandPrograms) 
-- [Wireframes](#Wireframes)       
-- [Future Improvements](#Future-Improvements)
-- [Resources](#Resources)
-- [Content](#Content)
-- [Code snippets](#Code-snippets)
-- [Special Thanks](#Special-Thanks)
-- [Acknowledgement](#Acknowledgement)
+5. [Testing](#testing)
+    - [Features Testing](#features-testing)
+    - [Browser Testing](#browser-testing)
+    - [Responsiveness](#responsiveness)
+    - [Responsive testing](#responsive-testing)
+
+6.   [Code Validation](#code-validation) 
+      - [HTML Validation](#html-validation)
+      - [CSS Validation](#html-validation) 
+
+7.   [Lighthouse Test](#lighthouse-test) 
 
 
-# User experience
+8.   [Libraries and Programs](#libraries-and-programs) 
+
+9.   [Technologies Used](#technologies-used) 
+    
+
+
+10.   [Credits & Reference](#credits) 
+      - [Code Used](#code-used)
+
+
+11. [Acknowledgements](#acknowledgements)
+
+
+
+# User experience (UX)
 
 the reason behind this website is  website is to provide people with information about Paris landmarks.
 
@@ -150,9 +161,9 @@ under build and deployment >set Source to 'Deploy from Branch'. Main branch is s
 # CodeValidation
 ## HTML Validation
 ![HTML Validation](assets/images/validation.png)
-# CSS Validation
+## CSS Validation
 ![CSS Validation](assets/images/cssvalidation.png)
-# Lighthouse Test
+## Lighthouse Test
 ![lighthouse](assets/images/lighthouse.png)
 Overall website Lighthouse score
 ![lighthouse](assets/images/lighthouse1.png)
@@ -350,3 +361,4 @@ Information about rooftop restaurants in Paris sourced from ABC News - Rooftop R
 ### Special Thanks
 - Thanks to the open-source community for creating resources and tools that made this project possible.
 - Special thanks to [Vernell C](https://github.com/VCGithubCode) for his guidance and support throughout the project.
+[Return to top](#Overview)
