@@ -165,6 +165,145 @@ Overall website Lighthouse score
 - Google Chrome.
 - MS Edge (For testing purpose).
 - Firefox (For testing purpose).
+
+# Testing:
+## Features Testing
+All th feaures of the website have been tested to make sure it working as designed.
+
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Test case</th>
+      <th>outcome</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Navbar|the Museum </td>
+      <td>click on The Museum link</td>
+      <td>This brings the user to the Museum</td>
+    </tr>
+    <tr>
+      <td>Navbar|The Eiffel Tower</td>
+      <td>click on the Eiffel Tower link</td>
+      <td>This brings the user to the Eiffel Tower section/pass</td>
+    </tr>
+    <tr>
+      <td>Navbar|The Arc de Triomphe</td>
+       <td>click on the Arc de Triomphe link</td>
+      <td>This brings the user to the Arc de Triomphe section/pass</td>
+    </tr>
+    <tr>
+       <td>Navbar| Contact us </td>
+       <td>click on Contact link/ this brings the user to contact section. user tried to submit a form without filling all the required fields</td>
+      <td>This brings user was to fill the required field before submitting the form/ pass</td>
+    </tr>
+    <tr>
+      <td>social media icons</td>
+       <td>click on icons link</td>
+      <td>this open new page and brings the user to our social media pages/ pass</td>
+    </tr>
+  </tbody>
+</table>
+
+## Browser Testing
+Website is tested acrossed below browsers to check performance
+<table>
+  <thead>
+    <tr>
+      <th>Tested browser</th>
+      <th>Appearance</th>
+      <th>Responsiveness</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chrome</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
+    </tr>
+    <tr>
+       <td>Edge</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design / Good</td>
+    </tr>
+    <tr>
+      <td>Firefox</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
+    </tr>
+ 
+  </tbody>
+</table>
+
+##  Responsiveness
+Website is tested acrossed below browsers to check performance
+<table>
+  <thead>
+    <tr>
+      <th>Tested device</th>
+      <th>Appearance</th>
+      <th>Responsiveness</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chrome</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
+    </tr>
+    <tr>
+       <td>Edge</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design / Good</td>
+    </tr>
+    <tr>
+      <td>Firefox</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
+    </tr>
+ 
+  </tbody>
+</table>
+
+## Responsive testing
+<table>
+  <thead>
+    <tr>
+      <th>Tested Device</th>
+      <th>Site responsive  min-width: 600px</th>
+       <th>Site responsive min-width: 768px</th>
+        <th>Site responsive min-width: 992px600px</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Samsung s24 ultra</td>
+      <td>Good/ nav Links are hiden. Menu icon display</td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+       <td>ipad tablet</td>
+      <td>N/A</td>
+      <td>Good/ nav Links are displayed</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+       <td>nest hub larger screen</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Good/ nav Links are displayed</td>
+    </tr>
+ 
+  </tbody>
+</table>
+
+### performance 
+* was less than 90%. I reduced image width to 600px and this improves the overall preformance and accessibility. 
+
+
 ## Future Improvements
 - Implement an interactive map for users to visually explore Parisian landmarks.
 - Add a search functionality for users to quickly find specific information.
