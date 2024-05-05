@@ -16,30 +16,18 @@ This project aims to showcase information about iconic landmarks in Paris, inclu
     - [Wireframes](#wireframes)
 3. [Deployment](#deployment) 
 4. [Features](#features)
-
 5. [Testing](#testing)
     - [Features Testing](#features-testing)
     - [Browser Testing](#browser-testing)
     - [Responsiveness](#responsiveness)
     - [Responsive testing](#responsive-testing)
-
 6.   [Code Validation](#code-validation) 
       - [HTML Validation](#html-validation)
       - [CSS Validation](#html-validation) 
-
 7.   [Lighthouse Test](#lighthouse-test) 
-
-
 8.   [Libraries and Programs](#libraries-and-programs) 
-
 9.   [Technologies Used](#technologies-used) 
-    
-
-
 10.   [Credits & Reference](#credits) 
-      - [Code Used](#code-used)
-
-
 11. [Acknowledgements](#acknowledgements)
 
 
