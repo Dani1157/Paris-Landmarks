@@ -1,4 +1,4 @@
-# Mags Foundation
+
 [live project on Github](https://dani1157.github.io/Paris1/)
 
 # Parisian Landmarks Website
