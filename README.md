@@ -29,13 +29,8 @@ This project aims to showcase information about iconic landmarks in Paris, inclu
 9.   [Technologies Used](#technologies-used) 
 10.   [Credits & Reference](#credits) 
 11. [Acknowledgements](#acknowledgements)
-
-
-
 # User experience (UX)
-
 the reason behind this website is  website is to provide people with information about Paris landmarks.
-
 # New User
 - As a first-time user of the website, I want to:
 
@@ -110,7 +105,7 @@ Users can easily access the website's social media platforms by clicking on the 
 - Information about The Louvre museum, iconic artworks, and historical background.
 - Image gallery featuring famous artworks housed in The Louvre.
 - The navigation bar contains links to the Home page, Eiffel Tower page, The Arc de Triomphe and Contact Us page. It includes a burger menu icon for mobile responsiveness.
-![nav](assets/images/Louvre.png)
+![nav](assets/images/louvre.png)
 - The landing page for the Louvre Museum includes information about the iconic museum in Paris, offering a captivating introduction to its vast collection and historical significance. It features a stunning image of the Louvre Museum and provides essential details about its history, architecture, and famous artworks housed within. The page highlights key aspects such as the museum's renowned art collections, its evolution from a royal palace to a cultural institution, and notable events or exhibitions that have taken place at the museum.
 ![land](assets/images/screenshot20240427203044.png)
 ## Footer Section
@@ -164,11 +159,9 @@ Overall website Lighthouse score
 - Google Chrome.
 - MS Edge (For testing purpose).
 - Firefox (For testing purpose).
-
 # Testing:
 ## Features Testing
 All th feaures of the website have been tested to make sure it working as designed.
-
 <table>
   <thead>
     <tr>
@@ -205,7 +198,6 @@ All th feaures of the website have been tested to make sure it working as design
     </tr>
   </tbody>
 </table>
-
 ## Browser Testing
 Website is tested acrossed below browsers to check performance
 <table>
@@ -235,7 +227,6 @@ Website is tested acrossed below browsers to check performance
  
   </tbody>
 </table>
-
 ##  Responsiveness
 Website is tested acrossed below browsers to check performance
 <table>
