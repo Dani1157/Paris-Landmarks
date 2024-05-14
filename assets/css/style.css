@@ -17,7 +17,6 @@
   };
  }
 
-
 html, body {
 height: 100%;
 margin: 0;
@@ -59,7 +58,6 @@ div, textarea, input {
  font-size: var(--pxtoem, 20, 16);
  margin: 1em 0 0.4em 0;
 }
-
 
 .row.body {
  padding: .5em 2.5em 1em;
@@ -135,12 +133,10 @@ textarea {
 
 .louvre{
 text-align: center;
-
 }
 
 .intro{
 border: #FFA07A;
-
 }
 
 .paris {
@@ -157,7 +153,6 @@ margin-top: 20px;
 margin-bottom: 20px;
 height: 150px;
 margin-top: auto;
-
 }
 
 /* Style for image containers */
@@ -390,17 +385,17 @@ img {
 }
 
 .navbar {
-    justify-content: flex-start; /* Align navbar items to the left on mobile */
+    justify-content: flex-start; 
 }
 
 .links {
     display: none;
-    flex-direction: column; /* Arrange links vertically in mobile dropdown */
+    flex-direction: column; 
 }
 
 .links.show {
     display: flex;
-    background-color: var(--primary-color); /* Change background color for visibility */
+    background-color: var(--primary-color); 
     width: 100%;
     padding: 10px;
 }
