@@ -340,4 +340,5 @@ Information about rooftop restaurants in Paris sourced from ABC News - Rooftop R
 ### Special Thanks
 - Thanks to the open-source community for creating resources and tools that made this project possible.
 - Special thanks to [Vernell C](https://github.com/VCGithubCode) for his guidance and support throughout the project.
+- Special thanks to Spencer Barriball for his guidance.
 [Return to top](#Overview)
