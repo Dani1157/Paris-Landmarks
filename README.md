@@ -64,7 +64,7 @@ The website is designed with a 4-page layout, making it easy to navigate and pro
 ## Footer Section
 - The footer section of the website contains social media icons linking to Instagram, Twitter, YouTube, and GitHub accounts for enhanced engagement and connectivity.
 Users can easily access the website's social media platforms by clicking on the respective icons.
-- The footer also includes copyright information, denoting the year of creation (©2024) and the designer's name (Dani) for attributing credit.
+- The footer also includes designer's name (Dani) for attributing credit.
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
 ![footer.png](assets/images/footer.png)
 ### Eiffel Tower Page (eiffelTower.html)
@@ -83,7 +83,7 @@ Users can easily access the website's social media platforms by clicking on the 
 ## Footer Section
 - The footer section of the website contains social media icons linking to Instagram, Twitter, YouTube, and GitHub accounts for enhanced engagement and connectivity.
 Users can easily access the website's social media platforms by clicking on the respective icons.
-- The footer also includes copyright information, denoting the year of creation (©2024) and the designer's name (Dani) for attributing credit.
+- The footer also includes designer's name (Dani) for attributing credit.
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
 ![footer.png](assets/images/footer.png)
 ### Arc de Triomphe Page (triomphe.html)
@@ -98,7 +98,7 @@ Users can easily access the website's social media platforms by clicking on the 
 ## Footer Section
 - The footer section of the website contains social media icons linking to Instagram, Twitter, YouTube, and GitHub accounts for enhanced engagement and connectivity.
 Users can easily access the website's social media platforms by clicking on the respective icons.
-- The footer also includes copyright information, denoting the year of creation (©2024) and the designer's name (Dani) for attributing credit.
+- The footer also includes designer's name (Dani) for attributing credit.
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
 ![footer.png](assets/images/footer.png)
 ### Louvre Museum Page (museum.html)
@@ -111,11 +111,11 @@ Users can easily access the website's social media platforms by clicking on the 
 ## Footer Section
 - The footer section of the website contains social media icons linking to Instagram, Twitter, YouTube, and GitHub accounts for enhanced engagement and connectivity.
 Users can easily access the website's social media platforms by clicking on the respective icons.
-- The footer also includes copyright information, denoting the year of creation (©2024) and the designer's name (Dani) for attributing credit.
+- The footer also includes designer's name (Dani) for attributing credit.
 - This footer design provides a professional and polished conclusion to the webpage, enhancing the overall user experience.
 ![footer.png](assets/images/footer.png)
 ## Contact page
-![footer.png](assets/images/contact.png)
+![Contact page](assets/images/contact.png)
 - It allows users To get in contact with me And ask questions And get updates about Paris.
 Users can also reach out for recommendations on places to visit, things to do, and where to eat in Paris. I also provide insider tips and insights on the best ways to experience the city like a local. Additionally, users can inquire about upcoming events, festivals, and special promotions happening in Paris. Stay connected with me for all the latest news and information about the City of Light!
 ## Technologies Used
