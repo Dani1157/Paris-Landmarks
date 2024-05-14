@@ -56,7 +56,7 @@ The website is designed with a 4-page layout, making it easy to navigate and pro
 - Describes the cultural significance and attractions of the city.
 ## Navigation Bar
 - The website includes a fully responsive navigation bar with links to different pages like the Museum, Eiffel Tower, Arc de Triomphe, and Contact Us. It provides easy access to navigate through the website on various devices. 
-![home](assets/images/nav.webp)
+![home](assets/images/nav.png)
 ## The landing page
 - The landing includes informative section about Paris, highlighting its significance as the capital of France.
 - Details about Paris's culture, history, attractions like the Eiffel Tower, Louvre Museum, and more are provided.
@@ -73,7 +73,7 @@ Users can easily access the website's social media platforms by clicking on the 
 
 - The navigation bar contains links to different pages related to Paris, such as "The Museum", "The Eiffel Tower", "The Arc de Triomphe", and "Contact Us".
 -It includes a burger menu icon (burger-menu) that, when clicked, toggles the visibility of the links within the navbar.
-![nav](assets/images/navpng.png)
+![nav](assets/images/nav.png)
 ## The landing page 
 - The landing includes Information about the Eiffel Tower" prominently to inform visitors about the main focus of the content.
 - Content Section: Provides information about the Eiffel Tower, including facts like the number of rivets used, tower height, and construction details. This section educates visitors about the iconic structure.
@@ -90,7 +90,7 @@ Users can easily access the website's social media platforms by clicking on the 
 - Overview of the Arc de Triomphe, historical context, and significance.
 - Interesting facts and memorable events associated with the monument.
 - The navigation bar contains links to the Home page, Eiffel Tower page, Museum page, and Contact Us page. It includes a burger menu icon for mobile responsiveness.
-![triomphe](assets/images/triomphe.png)
+![triomphe](assets/images/nav.png)
 ## The landing page
  -The landing includes the Arc de Triomphe in Paris and provides a captivating introduction to the monumental landmark. It features a striking image of the Arc de Triomphe, accompanied by essential information about its historical significance and construction. The page highlights key details such as the monument's tribute to fallen heroes of France, its architectural inspiration from ancient Roman design, and notable events that have taken place at the site.
 ![land](assets/images/land.png)
@@ -105,7 +105,7 @@ Users can easily access the website's social media platforms by clicking on the 
 - Information about The Louvre museum, iconic artworks, and historical background.
 - Image gallery featuring famous artworks housed in The Louvre.
 - The navigation bar contains links to the Home page, Eiffel Tower page, The Arc de Triomphe and Contact Us page. It includes a burger menu icon for mobile responsiveness.
-![nav](assets/images/louvre.png)
+![nav](assets/images/nav.png)
 - The landing page for the Louvre Museum includes information about the iconic museum in Paris, offering a captivating introduction to its vast collection and historical significance. It features a stunning image of the Louvre Museum and provides essential details about its history, architecture, and famous artworks housed within. The page highlights key aspects such as the museum's renowned art collections, its evolution from a royal palace to a cultural institution, and notable events or exhibitions that have taken place at the museum.
 ![land](assets/images/screenshot20240427203044.png)
 ## Footer Section

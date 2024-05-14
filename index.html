@@ -1,66 +1,87 @@
+<!-- The doctype declaration for HTML5 -->
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <!-- The opening tag of the HTML document -->
+  <head>
+    <!-- The character encoding of the document -->
     <meta charset="UTF-8">
+    <!-- The viewport settings for the document -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- A meta tag providing a description of the page -->
     <meta name="description" content="Explore the beauty and charm of Paris, the capital city of France, known for its iconic landmarks and rich cultural heritage.">
+    <!-- The link to the external stylesheet (style.css) -->
     <link rel="stylesheet" href="assets/css/style.css">
-   
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
-
+    <!-- The link to the external font-awesome stylesheet -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!-- The title of the page -->
     <title>Paris</title>
-
-
-</head>
-<body>
+  </head>
+  <!-- The opening tag of the HTML document's body element -->
+  <body>
+    <!-- A div containing the navigation bar -->
     <div class="navbar">
-        <div class="burger-menu">
-            <div class="line"></div>
-            <div class="line"></div>
-            <div class="line"></div>
-        </div>
-        <div class="links">
-            <a href="museum.html">The Museum</a>
-            <a href="eiffelTower.html">The Eiffel Tower</a>
-            <a href="triomphe.html">The Arc de Triomphe</a>
-            <a href="contactUs.html">Contact us</a>
-        </div>
+      <!-- A div containing the hamburger menu -->
+      <div class="burger-menu">
+        <!-- Three lines for the hamburger menu -->
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      <!-- A div containing the navigation links -->
+      <div class="links">
+        <!-- Links to different pages -->
+        <a href="index.html">Home</a>
+        <a href="eiffelTower.html">The Eiffel Tower</a>
+        <a href="triomphe.html">The Arc de Triomphe</a>
+        <a href="museum.html">The Museum</a>
+        <a href="contactUs.html">Contact us</a>
+      </div>
     </div>
-    
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            document.querySelector('.burger-menu').addEventListener('click', function() {
-                document.querySelector('.links').classList.toggle('show');
-            });
-        });
-    </script>
-    
+
+    <!-- A div containing the Paris section -->
     <div class="paris">
-  <h1>The Beautiful <br> city of Paris </h1>
+      <!-- An h1 heading with a title "The Beautiful city of Paris" -->
+      <h1>The Beautiful <br> city of Paris </h1>
+    </div>
+
+    <!-- An intro section describing Paris -->
+    <section class="intro">
+      <!-- An h2 heading with a title "What do you need to know about Paris?" -->
+      <h2>What do you need to know about Paris?</h2>
+      <!-- A paragraph describing Paris -->
+      <p>Paris is the capital and most populous city of France, located along the Seine River. It is one of the world's most important and attractive cities, known for its culture, history, beauty, and cuisine. Paris has many famous attractions, such as the Eiffel Tower, the Louvre Museum, the Notre-Dame Cathedral, and the Arc de Triomphe. Paris is also known as the "City of Light" for its role in the Age of Enlightenment and its early adoption of street lighting. The city is a vibrant hub of art, fashion, and gastronomy, attracting millions of visitors each year.</p>
+    </section>
+
+    <!-- A footer section with social media links and copyright information -->
+<footer>
+  <!-- A div containing social media links in icons form -->
+  <div class="social">
+    <!-- Links to different social media platforms in icon form -->
+    <a href="https://www.instagram.com/naenae_nene_6545?igsh=NHF6MHZwajlqZWYw" title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://x.com/daniel34241510?s=09" title="x" target="_blank"><i class="fab fa-twitter"></i></a>
+
+    <a href="https://youtube.com/@user-ss6sw3lx8y?si=Ql9l90zxOFIzH_mw" title="youtube" target="_blank"><i class="fab fa-youtube"></i></a>
+    <a href="https://github.com/Dani1157" title="github" target="_blank"><i class="fab fa-github-alt"></i></a>
   </div>
 
- 
-  <section class="intro">
-   
-    <h2>What do you need to know about Paris?</h2>
-    <p>Paris is the capital and most populous city of France, located along the Seine River. It is one of the world's most important and attractive cities, known for its culture, history, beauty, and cuisine. Paris has many famous attractions, such as the Eiffel Tower, the Louvre Museum, the Notre-Dame Cathedral, and the Arc de Triomphe. Paris is also known as the "City of Light" for its role in the Age of Enlightenment and its early adoption of street lighting. The city is a vibrant hub of art, fashion, and gastronomy, attracting millions of visitors each year.</p>
-</section>
+  <!-- A div containing copyright information and designer's name -->
+  <div class="footerbottom">
+    <!-- A paragraph with copyright information and designer's name -->
+    <p> Designed by <span class="designer">Dani</span></p>
+  </div>
 
-
-<footer>
-    <div class="social">
-        <a href="https://www.instagram.com/naenae_nene_6545?igsh=NHF6MHZwajlqZWYw" title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-        <a href="https://x.com/daniel34241510?s=09" title="x"  target="_blank"><i class="fab fa-twitter"></i></a>
-
-        <a href="https://youtube.com/@user-ss6sw3lx8y?si=Ql9l90zxOFIzH_mw" title="youtube" target="_blank"><i class="fab fa-youtube"></i></a>
-        <a href="https://github.com/Dani1157" title="github" target="_blank"><i class="fab fa-github-alt"></i></a>
-    </div>
-    <div class="footerbottom">
-        <p> Designed by <span class="designer">Dani</span></p>
-     </div>
- 
 </footer>
+<!-- JavaScript code for burger menu toggle -->
+<script>
+    // Add event listener to DOMContentLoaded event
+    document.addEventListener("DOMContentLoaded", function() {
+        // Add event listener to burger menu click
+        document.querySelector('.burger-menu').addEventListener('click', function() {
+            // Toggle show class on links
+            document.querySelector('.links').classList.toggle('show');
+        });
+    });
+</script>
+
 </body>
 </html>
-

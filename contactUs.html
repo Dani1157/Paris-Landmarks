@@ -5,9 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Fill this form to learn more about Paris and get updates about new stuff happening all across Paris. Contact us for information and updates about events in Paris.">
     <title>Contact Us</title>
-    <link rel="stylesheet" href="assets/css/contact.css">
+    <link rel="stylesheet" href="assets/css/style.css">
   </head>
   <body>
+    <div class="navbar">
+        <div class="burger-menu">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <div class="links">
+          <a href="index.html">Home</a>
+          <a href="eiffelTower.html">The Eiffel Tower</a>
+          <a href="triomphe.html">The Arc de Triomphe</a>
+          <a href="museum.html">The Museum</a>
+          <a href="contactUs.html">Contact us</a>
+       </div>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          document.querySelector('.burger-menu').addEventListener('click', function() {
+              document.querySelector('.links').classList.toggle('show');
+          });
+      });
+  </script>
+
     <div class="container">
       <div class="row header">
         <h1>Fill this form to learn more about Paris and get updates about new stuff happening all across Paris </h1>
@@ -39,5 +61,13 @@
         </form>
       </div>
     </div>
-  </body>
+    
+<footer>
+  <div class="footerbottom">
+      <p> Designed by <span class="designer">Dani</span></p>
+   </div>
+
+</footer>
+</body>
 </html>
+

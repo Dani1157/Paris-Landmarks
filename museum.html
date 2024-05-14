@@ -1,75 +1,123 @@
+<!-- The doctype declaration for HTML5 -->
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <!-- The opening tag of the HTML document -->
+  <head>
+    <!-- The character encoding of the document -->
     <meta charset="UTF-8">
+    <!-- The viewport settings for the document -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/m.css">
+    <!-- The link to the external stylesheet (style.css) -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- The link to the external font-awesome stylesheet -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!-- A meta tag providing a description of the page -->
     <meta name="description" content="The Louvre is one of the most famous museums in the world, housing a vast collection of art including masterpieces like da Vinci's Mona Lisa. Explore iconic artworks at The Louvre and learn about its rich history.">
+    <!-- The title of the page -->
     <title>The Grand Louvre</title>
-</head>
-<body>
+  </head>
+  <!-- The opening tag of the HTML document's body element -->
+  <body>
+    <!-- A div containing the navigation bar -->
     <div class="navbar">
-        <div class="burger-menu">
-            <div class="line"></div>
-            <div class="line"></div>
-            <div class="line"></div>
-        </div>
-        <div class="links">
-            <a href="index.html">Home</a>
-            <a href="eiffelTower.html">The Eiffel Tower</a>
-            <a href="triomphe.html">The Arc de Triomphe</a>
-            <a href="contactUs.html">Contact us</a>
-        </div>
+      <!-- A div containing the hamburger menu -->
+      <div class="burger-menu">
+        <!-- Three lines for the hamburger menu -->
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      <!-- A div containing the navigation links -->
+      <div class="links">
+        <!-- Links to different pages -->
+        <a href="index.html">Home</a>
+        <a href="eiffelTower.html">The Eiffel Tower</a>
+        <a href="triomphe.html">The Arc de Triomphe</a>
+        <a href="museum.html">The Museum</a>
+        <a href="contactUs.html">Contact us</a>
+      </div>
     </div>
-    
+
+    <!-- Heading section -->
+    <div class="louvre">
+      <!-- An h1 heading with the title "The Grand Louvre" -->
+      <h1>The Grand Louvre</h1>
+
+      <!-- Main content section -->
+      <div class="content">
+        <!-- An h2 heading with the title "What is The Louvre" -->
+        <h2>What is The Louvre</h2>
+        <!-- A paragraph describing The Louvre -->
+        <p>The Louvre is one of the most famous museums in the world, housing a vast collection of art including masterpieces like da Vinci's Mona Lisa. With over 10 million visitors annually, it is a must-visit destination in Paris.</p>
+      </div>
+
+      <!-- Images section -->
+      <h3>Famous Art at The Louvre</h3>
+      <div class="images">
+        <!-- A div containing an image with a heading and link -->
+        <div class="img-with-heading">
+          <!-- An image of the Mona Lisa -->
+          <img src="assets/images/mona.jpg" alt="Mona Lisa">
+          <!-- A link to Wikipedia article about Mona Lisa -->
+          <a href="https://en.wikipedia.org/wiki/Mona_Lisa" target="_blank"><h1>The Mona Lisa</h1></a>
+        </div>
+
+        <!-- A div containing an image with a heading and link -->
+        <div class="img-with-heading">
+          <!-- An image of Starry Night -->
+          <img src="assets/images/Starry.jpg" alt="Starry Night">
+          <!-- A link to Wikipedia article about Starry Night -->
+          <a href="https://en.wikipedia.org/wiki/The_Starry_Night" target="_blank"><h2>The Starry Night</h2></a>
+        </div>
+
+        <!-- A div containing an image with a heading and link -->
+        <div class="img-with-heading">
+          <!-- An image of Eugène Delacroix -->
+          <img src="assets/images/Eugène.jpg" alt="Eugène Delacroix">
+          <!-- A link to Wikipedia article about Eugène Delacroix -->
+          <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix" target="_blank"><h3>The Eugène Delacroix</h3></a>
+        </div>
+      </div>
+
+      <!-- History section -->
+      <h3>History of The Louvre Building</h3>
+      <!-- A paragraph describing the history of The Louvre building -->
+      <p>The Louvre began as a fortress in the 12th century and transformed into a royal residence over the centuries. Its architecture and rich history make it a fascinating landmark in Paris.</p>
+
+      <!-- Additional Information section -->
+      <h3>Additional Information</h3>
+      <!-- A paragraph describing additional information about The Louvre -->
+      <p>Explore iconic artworks like the Mona Lisa and The Starry Night at The Louvre. The museum's diverse collection and historical significance attract visitors from around the world.</p>
+    </div>
+
+    <!-- Footer section -->
+    <footer>
+      <!-- A div containing social media links in icons form -->
+      <div class="social">
+        <!-- Links to different social media platforms in icon form -->
+        <a href="https://www.instagram.com/naenae_nene_6545?igsh=NHF6MHZwajlqZWYw" title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://x.com/daniel34241510?s=09" title="x" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://youtube.com/@user-ss6sw3lx8y?si=Ql9l90zxOFIzH_mw" title="youtube" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a href="https://github.com/Dani1157" title="github" target="_blank"><i class="fab fa-github-alt"></i></a>
+      </div>
+
+      <!-- A div containing copyright information and designer's name -->
+      <div class="footerbottom">
+        <!-- A paragraph with copyright information and designer's name -->
+        <p>Designed by<span class="designer">Dani</span></p>
+      </div>
+    </footer>
+    <!-- JavaScript code for burger menu toggle -->
     <script>
+        // Add event listener to DOMContentLoaded event
         document.addEventListener("DOMContentLoaded", function() {
+            // Add event listener to burger menu click
             document.querySelector('.burger-menu').addEventListener('click', function() {
+                // Toggle show class on links
                 document.querySelector('.links').classList.toggle('show');
             });
         });
     </script>
     
-    <!-- Heading section -->
-    <h1>The Grand Louvre</h1>
-
-    <!-- Main content section -->
-    <div class="content">
-        <h2>What is The Louvre</h2>
-        <p>The Louvre is one of the most famous museums in the world, housing a vast collection of art including masterpieces like da Vinci's Mona Lisa. With over 10 million visitors annually, it is a must-visit destination in Paris.</p>
-    </div>
-    <!-- Images section -->
-    <h3>Famous Art at The Louvre</h3>
-    <div class="images">
-        <div class="img-with-heading">
-            <img src="assets/images/mona.jpg" alt="Mona Lisa">
-            <a href="https://en.wikipedia.org/wiki/Mona_Lisa" target="_blank"><h1>The Mona Lisa</h1></a>
-        </div>
-        <div class="img-with-heading">
-            <img src="assets/images/Starry.jpg" alt="Starry Night">
-            <a href="https://en.wikipedia.org/wiki/The_Starry_Night" target="_blank"><h2>The Starry Night</h2></a>
-        </div>
-        <div class="img-with-heading">
-            <img src="assets/images/Eugène.jpg" alt="Eugène Delacroix">
-            <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix" target="_blank"><h3>The Eugène Delacroix</h3></a>
-        </div>
-    </div>
-   <h3>History of The Louvre Building</h3>
-        <p>The Louvre began as a fortress in the 12th century and transformed into a royal residence over the centuries. Its architecture and rich history make it a fascinating landmark in Paris.</p
-       <h3>Additional Information</h3>
-        <p>Explore iconic artworks like the Mona Lisa and The Starry Night at The Louvre. The museum's diverse collection and historical significance attract visitors from around the world.</p>
-    <footer>
-        <div class="social">
-            <a href="https://www.instagram.com/naenae_nene_6545?igsh=NHF6MHZwajlqZWYw" title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="https://x.com/daniel34241510?s=09" title="x"  target="_blank"><i class="fab fa-twitter"></i></a>
-            <a href="https://youtube.com/@user-ss6sw3lx8y?si=Ql9l90zxOFIzH_mw" title="youtube" target="_blank"><i class="fab fa-youtube"></i></a>
-            <a href="https://github.com/Dani1157" title="github" target="_blank"><i class="fab fa-github-alt"></i></a>
-        </div>
-        
-        <div class="footerbottom">
-            <p> Designed by <span class="designer">Dani</span></p>
-         </div>
-    </footer>
-</body>
+  </body>
 </html>
